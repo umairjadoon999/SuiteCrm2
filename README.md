@@ -69,6 +69,6 @@ SuiteCRM is an open-source project. If you require help with support then please
 
 SuiteCRM is published under the AGPLv3 license.
 
-
+*this is the change
 
 
